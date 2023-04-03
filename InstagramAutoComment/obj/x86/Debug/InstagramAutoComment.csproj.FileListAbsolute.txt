@@ -1,0 +1,10 @@
+D:\SoftWare\My Projects\InstagramCommenter\InstagramAutoComment\InstagramAutoComment\bin\Debug\InstagramAutoComment.exe
+D:\SoftWare\My Projects\InstagramCommenter\InstagramAutoComment\InstagramAutoComment\bin\Debug\InstagramAutoComment.exe.config
+D:\SoftWare\My Projects\InstagramCommenter\InstagramAutoComment\InstagramAutoComment\obj\x86\Debug\InstagramAutoComment.csprojResolveAssemblyReference.cache
+D:\SoftWare\My Projects\InstagramCommenter\InstagramAutoComment\InstagramAutoComment\obj\x86\Debug\InstagramAutoComment.Activation.resources
+D:\SoftWare\My Projects\InstagramCommenter\InstagramAutoComment\InstagramAutoComment\obj\x86\Debug\InstagramAutoComment.Form1.resources
+D:\SoftWare\My Projects\InstagramCommenter\InstagramAutoComment\InstagramAutoComment\obj\x86\Debug\InstagramAutoComment.Properties.Resources.resources
+D:\SoftWare\My Projects\InstagramCommenter\InstagramAutoComment\InstagramAutoComment\obj\x86\Debug\InstagramAutoComment.csproj.GenerateResource.Cache
+D:\SoftWare\My Projects\InstagramCommenter\InstagramAutoComment\InstagramAutoComment\obj\x86\Debug\InstagramAutoComment.exe
+D:\SoftWare\My Projects\InstagramCommenter\InstagramAutoComment\InstagramAutoComment\obj\x86\Debug\InstagramAutoComment.pdb
+D:\SoftWare\My Projects\InstagramCommenter\InstagramAutoComment\InstagramAutoComment\bin\Debug\InstagramAutoComment.pdb
